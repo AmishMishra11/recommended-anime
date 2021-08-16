@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  border-radius: 2rem;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  background-color: #c4b5fd;
+}
+body {
+  margin: 20px;
+}
+span {
+  padding: 1rem;
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+}
+li {
+  padding: 1rem;
+  background-color: #e0b564;
+  color: #000000;
+  border-radius: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+span {
+  padding: 1rem;
+  font-weight: bold;
+}
